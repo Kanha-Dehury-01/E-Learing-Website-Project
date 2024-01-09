@@ -1,0 +1,22 @@
+
+.skill-row{
+    
+    margin: 100px auto;
+    text-align:left;
+    line-height:2;
+    display:table;
+    
+}
+
+.tablecol1{
+    padding: 5%;
+}
+
+p {
+    font-family: 'Poppins', sans-serif;
+}
+
+h2,h3,h4{
+    font-family: 'Libre Baskerville', serif;
+}
+
